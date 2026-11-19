@@ -31,7 +31,7 @@ Dependency installation commands will need to follow the environment specificati
 
 ### **1. Prepare Training Data**
 
-The paper uses the following five light field datasets from [BasicLFSR](https://github.com/ZhengyuLiang24/BasicLFSR): for training and standard benchmark testing:
+The paper uses the following five light field datasets from [BasicLFSR](https://github.com/ZhengyuLiang24/BasicLFSR) for training and standard benchmark testing:
 
 | Dataset | Training scenes | Testing scenes | Scene type |
 | --- | ---: | ---: | --- |
